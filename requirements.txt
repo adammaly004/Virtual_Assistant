@@ -1,0 +1,8 @@
+ DateTime
+ wikipedia
+ googlesearch-python
+ youtube-search-python
+ beautifulsoup4
+ pyttsx3
+ SpeechRecognition
+ PyAudio

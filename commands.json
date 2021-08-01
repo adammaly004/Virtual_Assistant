@@ -1,0 +1,243 @@
+{
+    "open": [
+        [],
+        [
+            "What you want to open?"
+        ]
+    ],
+    "open word": [
+        [
+            "your_path"
+        ],
+        [
+            "Word has been opened!"
+        ]
+    ],
+    "open chrome": [
+        [
+            "your_path"
+        ],
+        [
+            "Chrome has been opened!"
+        ]
+    ],
+    "programming": [
+        [
+            "your_path",
+            "your_path",
+            "your_path"
+        ],
+        [
+            "You can program!"
+        ]
+    ],
+    "podcast": [
+        [
+            "your_path"
+        ],
+        [
+            "Good listening"
+        ]
+    ],
+    "school": [
+        [
+            "your_path"
+        ],
+        [
+            "Good luck"
+        ]
+    ],
+    "weekend": [
+        [
+            "your_path",
+            "your_path",
+            "your_path"
+        ],
+        [
+            "Have a nice weekend."
+        ]
+    ],
+    "open file": [
+        [
+            "your_path"
+        ],
+        [
+            "your_path"
+        ]
+    ],
+    "open minecraft": [
+        [
+            "your_path"
+        ],
+        [
+            "Have a nice game"
+        ]
+    ],
+    "open gimp": [
+        [
+            "your_path"
+        ],
+        [
+            "Gimp has been opened!"
+        ]
+    ],
+    "open blender": [
+        [
+            "your_path"
+        ],
+        [
+            "Blender has been opened!"
+        ]
+    ],
+    "open excel": [
+        [
+            "your_path"
+        ],
+        [
+            "Excel has been opened"
+        ]
+    ],
+    "open control panel": [
+        [
+            "your_path"
+        ],
+        [
+            "Control has been opened"
+        ]
+    ],
+    "open cmd": [
+        [
+            "your_path"
+        ],
+        [
+            "CMD has been opened"
+        ]
+    ],
+    "open gmail": [
+        [
+            "your_path"
+        ],
+        [
+            "Gmail has been opened!"
+        ]
+    ],
+    "send mail": [
+        [
+            "your_path"
+        ],
+        [
+            "Gmail has been opened!"
+        ]
+    ],
+    "open teams": [
+        [
+            "your_path"
+        ],
+        [
+            "Good luck"
+        ]
+    ],
+    "open seznam": [
+        [
+            "your_path"
+        ],
+        [
+            "Have a nice day"
+        ]
+    ],
+    "open youtube": [
+        [
+            "your_path"
+        ],
+        [
+            "Have a nice day"
+        ]
+    ],
+    "tell me a joke": [
+        [],
+        [
+            "Nevěřil bych, že mě vyhodí z práce, když prostě jen pustím sednout slepce. A to jsem byl třikrát za sebou jmenovaný autobusákem měsíce!",
+            "Ve sportovní hale probíhá soutěž v tancích. Najednou se ozve rána a do haly vjede tank. Vystoupí z něj tankista a ptá se: Prosím vás, nevíte, kde se koná ta soutěž v tancích?",
+            "Baví se 2 zahrádkáři. Víš že když budeš hezky mluvit k rostlinám, tak ti porostou? Opravdu? říká ten druhý tak já jdu na zahradu urazit plevel!"
+        ]
+    ],
+    "where are you live": [
+        [],
+        [
+            "I live in your computer"
+        ]
+    ],
+    "hi hello hey": [
+        [],
+        [
+            "Hello",
+            "Hi",
+            "Hey"
+        ]
+    ],
+    "what's your name": [
+        [],
+        [
+            "My name is Pikachu",
+            "I am Pikachu"
+        ]
+    ],
+    "how are you": [
+        [],
+        [
+            "I am fine",
+            "Great",
+            "Ok",
+            "Good",
+            "Super"
+        ]
+    ],
+    "you are great": [
+        [],
+        [
+            "Oh, thanks!"
+        ]
+    ],
+    "how old are you": [
+        [],
+        [
+            "I was born 31.1 2021."
+        ]
+    ],
+    "clear": [
+        [],
+        [
+            "Clear!"
+        ]
+    ],
+    "rock paper scissors": [
+        [],
+        [
+            "Rock",
+            "Paper",
+            "Scissors"
+        ]
+    ],
+    "time": [
+        [],
+        [
+            "Time is:"
+        ]
+    ],
+    "note": [
+        "your_path"
+    ],
+    "stop bay bey see you soon": [
+        [],
+        [
+            "Hello",
+            "Good bay"
+        ]
+    ],
+    "error": [
+        [],
+        [
+            "I don't know this command"
+        ]
+    ]
+}
