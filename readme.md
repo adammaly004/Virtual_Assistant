@@ -1,5 +1,5 @@
 # Virtual Assistant
-Pikachu is a computer assistant written with Python 3.9.1 to help you find your favorite apps and sites.
+My virtual assistant is called Pikachu. Pikachu is a computer assistant written with Python 3.9.1 to help you find your favorite apps and sites.
 I made two versions, Pikachu and Speak_Pikachu. Speak _Pikachu can speak and listen :-).
 
 This project was created after 3 months of learning Python, so I apologize if the code is not well optimized in some parts. I didn't come up with any problem, if you find something, I'll be glad if you advise me.
