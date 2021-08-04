@@ -16,7 +16,7 @@ git clone <repo-url>
 pip install -r requirements.txt
 ```
 
-## Running the Game
+## Running the App
 ```
 python assistant.pyw
 ```
