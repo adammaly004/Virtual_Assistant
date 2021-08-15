@@ -4,7 +4,7 @@ I made two versions, Pikachu and Speak_Pikachu. Speak _Pikachu can speak and lis
 
 This project was created after 3 months of learning Python, so I apologize if the code is not well optimized in some parts. I didn't come up with any problem, if you find something, I'll be glad if you advise me.
 
-## Setup & Installtion
+## Setup & Installation
 Ensure you have python 3.9+ installed.
 
 You need to replace "your_path" in commands.json with your file/program/website path!
